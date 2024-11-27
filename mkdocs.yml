@@ -1,9 +1,6 @@
-site_name: My site
+site_name: FAIR training guide
 nav:
     - Home: index.md
-    - Precourse preparations: precourse.md
-    - Course schedule: course_schedule.md
-    - Exercises: exercises.md
 
 theme:
   name: material
@@ -11,8 +8,8 @@ theme:
   favicon: assets/images/SIB_logo.svg
 
 # Repository
-repo_name: sib-swiss/course_website_template
-repo_url: https://github.com/sib-swiss/course_website_template
+repo_name: sib-swiss/fair-training-guide
+repo_url: https://github.com/sib-swiss/fair-training-guide
 
 markdown_extensions:
   - abbr
